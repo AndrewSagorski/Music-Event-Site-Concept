@@ -1,5 +1,5 @@
 # Music-Event-Site-Concept
-A simple design and flow concept for a music event website, created for a university assignment.
+A simple design and flow concept for a music event website, created for a university assignment. Makes use of Bootstrap 5 for grid layout and components, and of Google Fonts.
 
 This site would allow people to browse music gigs and events near them, by genre, location or search term. 
 
