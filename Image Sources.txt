@@ -1,0 +1,38 @@
+Classical Banner URL
+	- https://unsplash.com/photos/6PvRiMMe_Ck
+
+Rock Band
+	- https://unsplash.com/photos/xoEM1msqqvg
+
+Festival 1
+	- https://unsplash.com/photos/ZhQCZjr9fHo
+
+Solo Artist
+	- https://unsplash.com/photos/DFaxMax8wcc
+
+Festival 2
+	- https://unsplash.com/photos/8XLapfNMW04
+
+Jazz
+	- https://unsplash.com/photos/A10y2Eq7OHY
+
+Classical 2
+	- https://unsplash.com/photos/slbOcNlWNHA
+
+Jazz 2
+	- https://unsplash.com/photos/gUK3lA3K7Yo
+
+Rock 2
+	- https://unsplash.com/photos/2rxgWHby5mo
+
+Indie
+	- https://unsplash.com/photos/rg1Z9NtEa80
+
+Pop
+	- https://unsplash.com/photos/ta7rN3NcWyM
+
+Hip-hop
+	- https://unsplash.com/photos/Udu9NgiNFk8
+
+Banner
+	- https://unsplash.com/photos/m1WZS5ye404
